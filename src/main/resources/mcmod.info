@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "avaritiatinkersfix",
+    "name": "Avaritia Tinkers Fix",
+    "description": "Displays Avaritia halo items correctly on Tinkers' Antique tool station and tool forge table tops, keeping the halo and pulse effects.",
+    "version": "1.0.0",
+    "mcversion": "1.12.2",
+    "authorList": ["knvoz"],
+    "dependencies": ["mixinbooter", "tconstruct", "avaritia", "codechickenlib"]
+  }
+]

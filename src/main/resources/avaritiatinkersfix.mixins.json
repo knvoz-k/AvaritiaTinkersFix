@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.knvoz.avaritiatinkersfix.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "ModelHelperMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
